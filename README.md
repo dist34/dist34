@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer & tech enthusiast from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mayankbhardwaj&label=Profile%20views&color=0e75b6&style=flat" alt="mayankbhardwaj" />
+  <img src="https://komarev.com/ghpvc/?username=mayankbhardwaj" alt="mayankbhardwaj" />
 </p>
 
 <p align="center">
