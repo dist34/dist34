@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayank Bhardwaj</h1>
 <h3 align="center">A passionate developer & tech enthusiast from India 🇮🇳</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mayankbhardwaj" alt="mayankbhardwaj" />
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Full+Stack+Developer;AI+Enthusiast;Tech+Explorer;Always+Learning+Something+New" alt="Typing SVG" />
